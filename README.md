@@ -19,19 +19,35 @@ This case study follows the six-step data analysis process:
 
 ## 📂 Repository Structure
 Cyclistic-Growth-Analysis/
+
 ├─ data_raw/ # Original CSV files (untouched)
+
 ├─ data_working/ # Cleaned and merged dataset
+
 ├─ notebooks/
+
 │ ├─ 01_data_cleaning.ipynb
+
 │ └─ 02_analysis.ipynb
+
 ├─ outputs/ # Charts and summary tables
+
 ├─ deliverables/
+
 │ ├─ business_task.md
+
 │ ├─ data_sources.md
+
 │ ├─ cleaning_summary.md
+
 │ ├─ analysis_summary.md
+
+
+
 │ ├─ recommendations.md
+
 │ └─ executive_summary.pdf
+
 └─ README.md
 
 
